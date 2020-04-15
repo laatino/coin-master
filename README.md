@@ -1,2 +1,0 @@
-# coinmaster
-coin master website
